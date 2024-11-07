@@ -5,8 +5,22 @@ import pandas as pd
 
 
 #Data Preprocessing 
+
+
+
 #CNN Model Architetcure
+
+
+
 #Training the Model
+
+
+
 #Hyperparameter tuning and experimentation
+
+
+
 #Evalute and Iterate
+
+
 
