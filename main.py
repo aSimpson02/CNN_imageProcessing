@@ -16,9 +16,10 @@ def data_preprocessing(image):
 #CNN Model Architetcure:::
     #function that contains architecture
 def building_model():
-    pass
-
     #model = sequential
+    model = Sequential()
+
+    
     #crop any unecessary parts of images 
     # normalise 
 
@@ -45,6 +46,9 @@ def training_model():
 #Hyperparameter tuning and experimentation:::
 
 
+
+#save model for evaluation:
+#model.save("model.h5")
 
 #Evalute and Iterate:::
 
